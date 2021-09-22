@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaurav101b ,Gaurav Barmola
+- 👋 Hi, I’m Gaurav Barmola
 - 📫 reach me at gb13@iitbbs.ac.in
 
 <!---
