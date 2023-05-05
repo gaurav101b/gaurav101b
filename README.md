@@ -1,6 +1,6 @@
 👋 Hi there, I'm Gaurav!
 
-🎓 I graduated from IIT Bhubaneswar with a degree in Computer Science.
+🎓 I graduated from IIT Bhubaneswar with a degree in Electrical engineering.
 
 💼 Currently, I work at Goldman Sachs, where I'm a software engineer working on building financial technology.
 
